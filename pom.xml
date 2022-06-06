@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ru.gb.mikenord.gb_java_02_module_fx/ru.gb.mikenord.gb_java_02_module_fx.HelloApplication
+                                ru.gb.mikenord.gb_java_02_module_fx/ru.gb.mikenord.gb_java_02_module_fx.NetChatApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
